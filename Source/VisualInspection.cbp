@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="VisualInspection" />
+		<Option pch_mode="2" />
+		<Option compiler="gnu_gcc_compiler_64bits" />
+		<Build>
+			<Target title="Debug">
+				<Option output="D:/Documents/Git/VISE/bin/Debug/VISE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="D:/Documents/Git/VISE/obj/Debug/VISE.exe" />
+				<Option type="1" />
+				<Option compiler="gnu_gcc_compiler_64bits" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="src" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="D:/Documents/Git/VISE/bin/Release/VISE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="D:/Documents/Git/VISE/obj/Release/VISE.exe" />
+				<Option type="1" />
+				<Option compiler="gnu_gcc_compiler_64bits" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="src" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+				<MakeCommands>
+					<Build command="" />
+					<CompileFile command="" />
+					<Clean command="" />
+					<DistClean command="" />
+					<AskRebuildNeeded command="" />
+					<SilentBuild command=" &gt; $(CMD_NULL)" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="$(#sdl2.include)" />
+			<Add directory="$(#sdl2_image.include)" />
+			<Add directory="$(#sdl2_ttf.include)" />
+			<Add directory="$(#nativefiledialog.include)" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDL2main" />
+			<Add library="SDL2" />
+			<Add library="SDL2_image" />
+			<Add library="SDL2_ttf" />
+			<Add library="nfd" />
+			<Add library="uuid" />
+			<Add library="ole32" />
+			<Add directory="$(#sdl2.lib)" />
+			<Add directory="$(#sdl2.bin)" />
+			<Add directory="$(#sdl2_image.lib)" />
+			<Add directory="$(#sdl2_image.bin)" />
+			<Add directory="$(#sdl2_ttf.lib)" />
+			<Add directory="$(#sdl2_ttf.bin)" />
+			<Add directory="$(#nativefiledialog.lib)" />
+		</Linker>
+		<Unit filename="src/file/File.cpp" />
+		<Unit filename="src/file/File.h" />
+		<Unit filename="src/file/Image.cpp" />
+		<Unit filename="src/file/Image.h" />
+		<Unit filename="src/file/InspectionReport.cpp" />
+		<Unit filename="src/file/InspectionReport.h" />
+		<Unit filename="src/file/PickAndPlace.cpp" />
+		<Unit filename="src/file/PickAndPlace.h" />
+		<Unit filename="src/gui/Button.cpp" />
+		<Unit filename="src/gui/Button.h" />
+		<Unit filename="src/gui/FileViewer.cpp" />
+		<Unit filename="src/gui/FileViewer.h" />
+		<Unit filename="src/gui/Gui.cpp" />
+		<Unit filename="src/gui/Gui.h" />
+		<Unit filename="src/gui/ImageViewer.cpp" />
+		<Unit filename="src/gui/ImageViewer.h" />
+		<Unit filename="src/gui/Label.cpp" />
+		<Unit filename="src/gui/Label.h" />
+		<Unit filename="src/gui/PopUp.cpp" />
+		<Unit filename="src/gui/PopUp.h" />
+		<Unit filename="src/gui/PopUpText.cpp" />
+		<Unit filename="src/gui/PopUpText.h" />
+		<Unit filename="src/gui/PopUpYesNo.cpp" />
+		<Unit filename="src/gui/PopUpYesNo.h" />
+		<Unit filename="src/gui/TextField.cpp" />
+		<Unit filename="src/gui/TextField.h" />
+		<Unit filename="src/gui/Tooltip.cpp" />
+		<Unit filename="src/gui/Tooltip.h" />
+		<Unit filename="src/gui/Widget.cpp" />
+		<Unit filename="src/gui/Widget.h" />
+		<Unit filename="src/gui/WidgetBar.cpp" />
+		<Unit filename="src/gui/WidgetBar.h" />
+		<Unit filename="src/gui/ressources.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="src/inspection/Item.h" />
+		<Unit filename="src/interface/CommDDE.h" />
+		<Unit filename="src/interface/commDDE.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/misc/Utilities.cpp" />
+		<Unit filename="src/misc/Utilities.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

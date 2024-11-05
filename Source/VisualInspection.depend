@@ -1,0 +1,2419 @@
+# depslib dependency file v1.0
+1618888731 source:c:\users\philou231\myfiles\documents\programmation\c++\visualinspection\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	<nfd.h>
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_config.h
+	"SDL_platform.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\begin_code.h
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\close_code.h
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564025784 c:\program files\codeblocks\sdl2-2.0.10\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561866798 c:\program files\codeblocks\sdl2_image-2.0.5\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322290 c:\program files\codeblocks\sdl2_ttf-2.0.15\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1569870248 c:\program files\codeblocks\nativefiledialog\include\nfd.h
+	<stddef.h>
+
+1618888820 source:c:\users\caphlam\onedrive - abb\documents\opex\visual inspection\source\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	<nfd.h>
+
+1636750607 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	<nfd.h>
+
+1639764097 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Gui.h"
+
+1639712693 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"Utilities.h"
+
+1639712719 c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1649791662 c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\widget.h
+	<vector>
+	<SDL.h>
+
+1649791701 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\widget.cpp
+	"Widget.h"
+	"Utilities.h"
+
+1649791625 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	"Utilities.h"
+
+1649789689 c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\imageviewer.h
+	"Widget.h"
+	"Image.h"
+
+1639768248 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\utilities.cpp
+	"Utilities.h"
+
+1649789369 c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\utilities.h
+	<SDL.h>
+	<iostream>
+
+1649791542 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\gui.cpp
+	"Gui.h"
+	<nfd.h>
+
+1639764877 c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\gui.h
+	<vector>
+	<SDL.h>
+	"Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"Button.h"
+	"Image.h"
+
+1639712699 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\widgetbar.cpp
+	"WidgetBar.h"
+	"Utilities.h"
+
+1639712714 c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\widgetbar.h
+	"Widget.h"
+
+1649790517 source:c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\image.cpp
+	"Image.h"
+	<iostream>
+	<SDL_image.h>
+	"Utilities.h"
+
+1639772163 c:\users\caphlam\onedrive - abb\documents\projets\a-programmation\visual inspection\source\src\image.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1639709093 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"Utilities.h"
+
+1639709119 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1649788062 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\widget.h
+	<vector>
+	<SDL.h>
+
+1675105396 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\utilities.h
+	<SDL.h>
+	<iostream>
+
+1674843709 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\gui.cpp
+	"Gui.h"
+	<SDL_image.h>
+	<nfd.h>
+
+1674838189 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\gui.h
+	<vector>
+	<SDL.h>
+	"Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"Button.h"
+	"Image.h"
+
+1639709114 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\widgetbar.h
+	"Widget.h"
+
+1675286781 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\imageviewer.h
+	"Widget.h"
+	"Image.h"
+
+1675287541 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\image.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1675287365 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\image.cpp
+	"Image.h"
+	<iostream>
+	<SDL_image.h>
+	"Utilities.h"
+
+1675287107 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	"Utilities.h"
+
+1639760497 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Gui.h"
+
+1639764648 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\utilities.cpp
+	"Utilities.h"
+
+1649788101 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\widget.cpp
+	"Widget.h"
+	"Utilities.h"
+
+1639709099 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\widgetbar.cpp
+	"WidgetBar.h"
+	"Utilities.h"
+
+1674841616 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visual inspection\source\src\ressources.rc
+
+1639709093 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"Utilities.h"
+
+1639709119 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1649788062 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\widget.h
+	<vector>
+	<SDL.h>
+
+1675105396 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\utilities.h
+	<SDL.h>
+	<iostream>
+
+1674843709 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\gui.cpp
+	"Gui.h"
+	<SDL_image.h>
+	<nfd.h>
+
+1674838189 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\gui.h
+	<vector>
+	<SDL.h>
+	"Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"Button.h"
+	"Image.h"
+
+1639709114 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\widgetbar.h
+	"Widget.h"
+
+1675286781 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\imageviewer.h
+	"Widget.h"
+	"Image.h"
+
+1675287541 c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\image.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1675287365 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\image.cpp
+	"Image.h"
+	<iostream>
+	<SDL_image.h>
+	"Utilities.h"
+
+1675287107 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	"Utilities.h"
+
+1639760497 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Gui.h"
+
+1674841616 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\ressources.rc
+
+1639764648 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\utilities.cpp
+	"Utilities.h"
+
+1649788101 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\widget.cpp
+	"Widget.h"
+	"Utilities.h"
+
+1639709099 source:c:\users\caphlam\onedrive - abb\documents\projets\!a-programmation\visualinspection\source\src\widgetbar.cpp
+	"WidgetBar.h"
+	"Utilities.h"
+
+1676511105 source:c:\data\myprograms\visualinspection\source\src\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"Utilities.h"
+
+1676511109 c:\data\myprograms\visualinspection\source\src\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1676266954 c:\data\myprograms\visualinspection\source\src\widget.h
+	<vector>
+	<SDL.h>
+
+1675800227 c:\data\myprograms\visualinspection\source\src\utilities.h
+	<SDL.h>
+	<iostream>
+
+1676669423 source:c:\data\myprograms\visualinspection\source\src\gui.cpp
+	"Gui.h"
+	<SDL_image.h>
+	<nfd.h>
+
+1676669238 c:\data\myprograms\visualinspection\source\src\gui.h
+	<vector>
+	<SDL.h>
+	"Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"FileViewer.h"
+	"Button.h"
+	"PopUp.h"
+	"Image.h"
+	"PickAndPlace.h"
+	"InspectionReport.h"
+
+1639709114 c:\data\myprograms\visualinspection\source\src\widgetbar.h
+	"Widget.h"
+
+1676666312 c:\data\myprograms\visualinspection\source\src\imageviewer.h
+	"Widget.h"
+	"Image.h"
+	"InspectionReport.h"
+
+1676662414 c:\data\myprograms\visualinspection\source\src\image.h
+	<vector>
+	<SDL.h>
+	"File.h"
+
+1676666462 source:c:\data\myprograms\visualinspection\source\src\image.cpp
+	"Image.h"
+	<iostream>
+	<cmath>
+	<SDL_image.h>
+	"Utilities.h"
+
+1676669618 source:c:\data\myprograms\visualinspection\source\src\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	<SDL_image.h>
+	"Utilities.h"
+
+1679282677 source:c:\data\myprograms\visualinspection\source\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"gui/Gui.h"
+
+1674841616 source:c:\data\myprograms\visualinspection\source\src\ressources.rc
+
+1675800231 source:c:\data\myprograms\visualinspection\source\src\utilities.cpp
+	"Utilities.h"
+
+1676267245 source:c:\data\myprograms\visualinspection\source\src\widget.cpp
+	"Widget.h"
+	"Utilities.h"
+
+1639709099 source:c:\data\myprograms\visualinspection\source\src\widgetbar.cpp
+	"WidgetBar.h"
+	"Utilities.h"
+
+1676413840 c:\data\myprograms\visualinspection\source\src\pickandplace.h
+	<vector>
+	"File.h"
+
+1676666418 source:c:\data\myprograms\visualinspection\source\src\pickandplace.cpp
+	"PickAndPlace.h"
+	<iostream>
+	<fstream>
+
+1676309796 source:c:\data\myprograms\visualinspection\source\src\file.cpp
+	"File.h"
+
+1676666409 c:\data\myprograms\visualinspection\source\src\file.h
+	<string>
+
+1676666413 source:c:\data\myprograms\visualinspection\source\src\fileviewer.cpp
+	"FileViewer.h"
+	"Utilities.h"
+
+1676510206 c:\data\myprograms\visualinspection\source\src\fileviewer.h
+	<vector>
+	<functional>
+	"SDL_ttf.h"
+	"Widget.h"
+	"File.h"
+	"Image.h"
+	"PickAndPlace.h"
+
+1676658323 c:\data\myprograms\visualinspection\source\src\inspectionreport.h
+	<vector>
+	"PickAndPlace.h"
+	"Image.h"
+
+1676658407 source:c:\data\myprograms\visualinspection\source\src\inspectionreport.cpp
+	"InspectionReport.h"
+	<iostream>
+
+1676669411 c:\data\myprograms\visualinspection\source\src\popup.h
+	"Widget.h"
+
+1676669417 source:c:\data\myprograms\visualinspection\source\src\popup.cpp
+	"PopUp.h"
+
+1676309796 source:c:\data\myprograms\visualinspection\source\src\files\file.cpp
+	"File.h"
+
+1676666409 c:\data\myprograms\visualinspection\source\src\files\file.h
+	<string>
+
+1676658407 source:c:\data\myprograms\visualinspection\source\src\files\inspectionreport.cpp
+	"InspectionReport.h"
+	<iostream>
+
+1676670070 c:\data\myprograms\visualinspection\source\src\files\inspectionreport.h
+	<vector>
+	"PickAndPlace.h"
+	"file/Image.h"
+
+1676413840 c:\data\myprograms\visualinspection\source\src\files\pickandplace.h
+	<vector>
+	"File.h"
+
+1676662414 c:\data\myprograms\visualinspection\source\src\files\image.h
+	<vector>
+	<SDL.h>
+	"File.h"
+
+1676666418 source:c:\data\myprograms\visualinspection\source\src\files\pickandplace.cpp
+	"PickAndPlace.h"
+	<iostream>
+	<fstream>
+
+1679158445 source:c:\data\myprograms\visualinspection\source\src\gui\popup.cpp
+	"PopUp.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1679158412 c:\data\myprograms\visualinspection\source\src\gui\popup.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+	"Button.h"
+
+1679252963 c:\data\myprograms\visualinspection\source\src\gui\widget.h
+	<vector>
+	<SDL.h>
+
+1677712598 source:c:\data\myprograms\visualinspection\source\src\gui\ressources.rc
+
+1679173994 source:c:\data\myprograms\visualinspection\source\src\gui\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1679174035 c:\data\myprograms\visualinspection\source\src\gui\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1679243370 c:\data\myprograms\visualinspection\source\src\misc\utilities.h
+	<SDL.h>
+	<iostream>
+
+1679280461 source:c:\data\myprograms\visualinspection\source\src\gui\widget.cpp
+	"Widget.h"
+	"misc/Utilities.h"
+
+1677362819 source:c:\data\myprograms\visualinspection\source\src\gui\widgetbar.cpp
+	"WidgetBar.h"
+	"misc/Utilities.h"
+
+1639712714 c:\data\myprograms\visualinspection\source\src\gui\widgetbar.h
+	"Widget.h"
+
+1679280172 source:c:\data\myprograms\visualinspection\source\src\misc\utilities.cpp
+	"misc/Utilities.h"
+	<algorithm>
+	<cmath>
+
+1678420848 source:c:\data\myprograms\visualinspection\source\src\file\file.cpp
+	"file/File.h"
+
+1678420845 c:\data\myprograms\visualinspection\source\src\file\file.h
+	<string>
+
+1679284881 source:c:\data\myprograms\visualinspection\source\src\file\image.cpp
+	"file/Image.h"
+	<iostream>
+	<cmath>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1679284604 c:\data\myprograms\visualinspection\source\src\file\image.h
+	<vector>
+	<SDL.h>
+	"file/File.h"
+
+1679278964 source:c:\data\myprograms\visualinspection\source\src\file\pickandplace.cpp
+	"file/PickAndPlace.h"
+	<iostream>
+	<fstream>
+
+1679278964 c:\data\myprograms\visualinspection\source\src\file\pickandplace.h
+	<vector>
+	"misc/Utilities.h"
+	"file/File.h"
+	"inspection/Item.h"
+
+1679279093 source:c:\data\myprograms\visualinspection\source\src\file\inspectionreport.cpp
+	"file/InspectionReport.h"
+	<iostream>
+	<fstream>
+	<filesystem>
+	<cmath>
+	<nfd.h>
+
+1679278905 c:\data\myprograms\visualinspection\source\src\file\inspectionreport.h
+	<vector>
+	<functional>
+	"misc/Utilities.h"
+	"PickAndPlace.h"
+	"Image.h"
+
+1679287232 source:c:\data\myprograms\visualinspection\source\src\gui\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	<sstream>
+	<iomanip>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1679282363 c:\data\myprograms\visualinspection\source\src\gui\imageviewer.h
+	"Widget.h"
+	"file/Image.h"
+	"file/InspectionReport.h"
+	"FileViewer.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"Tooltip.h"
+
+1679201756 source:c:\data\myprograms\visualinspection\source\src\gui\fileviewer.cpp
+	"FileViewer.h"
+	"misc/Utilities.h"
+
+1679197081 c:\data\myprograms\visualinspection\source\src\gui\fileviewer.h
+	<vector>
+	<functional>
+	"SDL_ttf.h"
+	"Widget.h"
+	"file/File.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+
+1679288367 source:c:\data\myprograms\visualinspection\source\src\gui\gui.cpp
+	"gui/Gui.h"
+	<bitset>
+	<SDL_image.h>
+	<nfd.h>
+
+1679277651 c:\data\myprograms\visualinspection\source\src\gui\gui.h
+	<vector>
+	<SDL.h>
+	"misc/Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"FileViewer.h"
+	"Button.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+	"file/InspectionReport.h"
+
+1679175810 source:c:\data\myprograms\visualinspection\source\src\gui\label.cpp
+	"Label.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1679078256 c:\data\myprograms\visualinspection\source\src\gui\label.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1677733022 source:c:\data\myprograms\visualinspection\source\src\gui\textfield.cpp
+	"TextField.h"
+	"../misc/Utilities.h"
+
+1676788631 c:\data\myprograms\visualinspection\source\src\gui\textfield.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1679272748 c:\data\myprograms\visualinspection\source\src\gui\tooltip.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1679272739 source:c:\data\myprograms\visualinspection\source\src\gui\tooltip.cpp
+	"Tooltip.h"
+	"misc/Utilities.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\begin_code.h
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\close_code.h
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675727475 c:\mylib\64bits\sdl2-2.26.3\include\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675734272 c:\mylib\64bits\sdl2_image-2.6.3\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1569870248 c:\mylib\64bits\nativefiledialog\include\nfd.h
+	<stddef.h>
+
+1675736113 c:\mylib\64bits\sdl2_ttf-2.20.2\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1676569653 c:\mylib\64bits\nativefiledialog-extended\include\nfd.h
+	<stddef.h>
+
+1679278723 c:\data\myprograms\visualinspection\source\src\inspection\item.h
+
+1679158305 c:\data\myprograms\visualinspection\source\src\gui\popuptext.h
+	"PopUp.h"
+	"TextField.h"
+	"Tooltip.h"
+
+1679083251 source:c:\data\myprograms\visualinspection\source\src\gui\popuptext.cpp
+	"PopUpText.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1679158428 source:c:\data\myprograms\visualinspection\source\src\gui\popupyesno.cpp
+	"PopUpYesNo.h"
+
+1679158419 c:\data\myprograms\visualinspection\source\src\gui\popupyesno.h
+	"PopUp.h"
+
+1678420848 source:c:\users\caphlam\documents\git\vise\source\src\file\file.cpp
+	"file/File.h"
+
+1678420845 c:\users\caphlam\documents\git\vise\source\src\file\file.h
+	<string>
+
+1684859833 source:c:\users\caphlam\documents\git\vise\source\src\file\image.cpp
+	"file/Image.h"
+	<filesystem>
+	<iostream>
+	<cmath>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1684859854 c:\users\caphlam\documents\git\vise\source\src\file\image.h
+	<vector>
+	<SDL.h>
+	"file/File.h"
+
+1705689668 c:\users\caphlam\documents\git\vise\source\src\misc\utilities.h
+	<SDL.h>
+	<iostream>
+	<vector>
+
+1727110138 source:c:\users\caphlam\documents\git\vise\source\src\file\inspectionreport.cpp
+	"file/InspectionReport.h"
+	<iostream>
+	<fstream>
+	<filesystem>
+	<cmath>
+	<nfd.h>
+
+1705689062 c:\users\caphlam\documents\git\vise\source\src\file\inspectionreport.h
+	<vector>
+	<functional>
+	"misc/Utilities.h"
+	"PickAndPlace.h"
+	"Image.h"
+
+1679606361 c:\users\caphlam\documents\git\vise\source\src\file\pickandplace.h
+	<vector>
+	"misc/Utilities.h"
+	"file/File.h"
+	"inspection/Item.h"
+
+1682959363 c:\users\caphlam\documents\git\vise\source\src\inspection\item.h
+
+1684811641 source:c:\users\caphlam\documents\git\vise\source\src\file\pickandplace.cpp
+	"file/PickAndPlace.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<filesystem>
+
+1705458681 source:c:\users\caphlam\documents\git\vise\source\src\gui\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1679174035 c:\users\caphlam\documents\git\vise\source\src\gui\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1705906738 c:\users\caphlam\documents\git\vise\source\src\gui\widget.h
+	<vector>
+	<SDL.h>
+
+1705908006 c:\users\caphlam\documents\git\vise\source\src\gui\label.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1705458836 source:c:\users\caphlam\documents\git\vise\source\src\gui\fileviewer.cpp
+	"FileViewer.h"
+	"misc/Utilities.h"
+
+1679197081 c:\users\caphlam\documents\git\vise\source\src\gui\fileviewer.h
+	<vector>
+	<functional>
+	"SDL_ttf.h"
+	"Widget.h"
+	"file/File.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+
+1727449665 source:c:\users\caphlam\documents\git\vise\source\src\gui\gui.cpp
+	"gui/Gui.h"
+	<filesystem>
+	<bitset>
+	<SDL_image.h>
+	<nfd.h>
+
+1705947945 c:\users\caphlam\documents\git\vise\source\src\gui\gui.h
+	"interface/CommDDE.h"
+	<vector>
+	<SDL.h>
+	"misc/Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"FileViewer.h"
+	"Button.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+	"file/InspectionReport.h"
+
+1639712714 c:\users\caphlam\documents\git\vise\source\src\gui\widgetbar.h
+	"Widget.h"
+
+1705683813 c:\users\caphlam\documents\git\vise\source\src\gui\imageviewer.h
+	"Widget.h"
+	"file/Image.h"
+	"file/InspectionReport.h"
+	"FileViewer.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"Tooltip.h"
+
+1684816670 c:\users\caphlam\documents\git\vise\source\src\gui\popuptext.h
+	"PopUp.h"
+	"TextField.h"
+	"Tooltip.h"
+
+1705906569 c:\users\caphlam\documents\git\vise\source\src\gui\popup.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+	"Button.h"
+
+1676788631 c:\users\caphlam\documents\git\vise\source\src\gui\textfield.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1679272748 c:\users\caphlam\documents\git\vise\source\src\gui\tooltip.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1679158419 c:\users\caphlam\documents\git\vise\source\src\gui\popupyesno.h
+	"PopUp.h"
+
+1705905810 source:c:\users\caphlam\documents\git\vise\source\src\gui\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	<sstream>
+	<iomanip>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1705909206 source:c:\users\caphlam\documents\git\vise\source\src\gui\label.cpp
+	"Label.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1705907959 source:c:\users\caphlam\documents\git\vise\source\src\gui\popup.cpp
+	"PopUp.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1705458815 source:c:\users\caphlam\documents\git\vise\source\src\gui\popuptext.cpp
+	"PopUpText.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1679158428 source:c:\users\caphlam\documents\git\vise\source\src\gui\popupyesno.cpp
+	"PopUpYesNo.h"
+
+1677712598 source:c:\users\caphlam\documents\git\vise\source\src\gui\ressources.rc
+
+1705458815 source:c:\users\caphlam\documents\git\vise\source\src\gui\textfield.cpp
+	"TextField.h"
+	"../misc/Utilities.h"
+
+1705458815 source:c:\users\caphlam\documents\git\vise\source\src\gui\tooltip.cpp
+	"Tooltip.h"
+	"misc/Utilities.h"
+
+1705906714 source:c:\users\caphlam\documents\git\vise\source\src\gui\widget.cpp
+	"Widget.h"
+	"misc/Utilities.h"
+
+1705458815 source:c:\users\caphlam\documents\git\vise\source\src\gui\widgetbar.cpp
+	"WidgetBar.h"
+	"misc/Utilities.h"
+
+1705690095 source:c:\users\caphlam\documents\git\vise\source\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"interface/CommDDE.h"
+	"gui/Gui.h"
+
+1705689883 source:c:\users\caphlam\documents\git\vise\source\src\misc\utilities.cpp
+	"misc/Utilities.h"
+	<algorithm>
+	<cmath>
+	<sstream>
+
+1705620640 c:\users\caphlam\documents\git\vise\source\src\interface\commdde.h
+	<functional>
+	<string>
+	<windows.h>
+
+1705681665 source:c:\users\caphlam\documents\git\vise\source\src\interface\commdde.cpp
+	"CommDDE.h"
+	<ddeml.h>
+
+1678417250 source:c:\users\philou231\myfiles\documents\git\vise\source\src\file\file.cpp
+	"file/File.h"
+
+1678417246 c:\users\philou231\myfiles\documents\git\vise\source\src\file\file.h
+	<string>
+
+1684856234 source:c:\users\philou231\myfiles\documents\git\vise\source\src\file\image.cpp
+	"file/Image.h"
+	<filesystem>
+	<iostream>
+	<cmath>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1684856256 c:\users\philou231\myfiles\documents\git\vise\source\src\file\image.h
+	<vector>
+	<SDL.h>
+	"file/File.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\begin_code.h
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\close_code.h
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723876 c:\program files\codeblocks\sdl2-2.26.3\include\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675730672 c:\program files\codeblocks\sdl2_image-2.6.3\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1705686070 c:\users\philou231\myfiles\documents\git\vise\source\src\misc\utilities.h
+	<SDL.h>
+	<iostream>
+	<vector>
+
+1727106540 source:c:\users\philou231\myfiles\documents\git\vise\source\src\file\inspectionreport.cpp
+	"file/InspectionReport.h"
+	<iostream>
+	<fstream>
+	<filesystem>
+	<cmath>
+	<nfd.h>
+
+1705685464 c:\users\philou231\myfiles\documents\git\vise\source\src\file\inspectionreport.h
+	<vector>
+	<functional>
+	"misc/Utilities.h"
+	"PickAndPlace.h"
+	"Image.h"
+
+1679602762 c:\users\philou231\myfiles\documents\git\vise\source\src\file\pickandplace.h
+	<vector>
+	"misc/Utilities.h"
+	"file/File.h"
+	"inspection/Item.h"
+
+1682955764 c:\users\philou231\myfiles\documents\git\vise\source\src\inspection\item.h
+
+1676566054 c:\program files\codeblocks\nativefiledialog-extended\include\nfd.h
+	<stddef.h>
+
+1684808042 source:c:\users\philou231\myfiles\documents\git\vise\source\src\file\pickandplace.cpp
+	"file/PickAndPlace.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<filesystem>
+
+1705455082 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1679170436 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1675732514 c:\program files\codeblocks\sdl2_ttf-2.20.2\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1705903140 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\widget.h
+	<vector>
+	<SDL.h>
+
+1705904408 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\label.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1705455238 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\fileviewer.cpp
+	"FileViewer.h"
+	"misc/Utilities.h"
+
+1679193482 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\fileviewer.h
+	<vector>
+	<functional>
+	"SDL_ttf.h"
+	"Widget.h"
+	"file/File.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+
+1727446404 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\gui.cpp
+	"gui/Gui.h"
+	<filesystem>
+	<bitset>
+	<SDL_image.h>
+	<nfd.h>
+
+1705944346 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\gui.h
+	"interface/CommDDE.h"
+	<vector>
+	<SDL.h>
+	"misc/Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"FileViewer.h"
+	"Button.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+	"file/InspectionReport.h"
+
+1705617042 c:\users\philou231\myfiles\documents\git\vise\source\src\interface\commdde.h
+	<functional>
+	<string>
+	<windows.h>
+
+1639709114 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\widgetbar.h
+	"Widget.h"
+
+1705680214 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\imageviewer.h
+	"Widget.h"
+	"file/Image.h"
+	"file/InspectionReport.h"
+	"FileViewer.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"Tooltip.h"
+
+1684813072 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\popuptext.h
+	"PopUp.h"
+	"TextField.h"
+	"Tooltip.h"
+
+1705902970 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\popup.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+	"Button.h"
+
+1676785032 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\textfield.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1679269150 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\tooltip.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1679154820 c:\users\philou231\myfiles\documents\git\vise\source\src\gui\popupyesno.h
+	"PopUp.h"
+
+1705902212 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	<sstream>
+	<iomanip>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1705905608 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\label.cpp
+	"Label.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1705904360 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\popup.cpp
+	"PopUp.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1705455216 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\popuptext.cpp
+	"PopUpText.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1679154830 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\popupyesno.cpp
+	"PopUpYesNo.h"
+
+1677709000 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\ressources.rc
+
+1705455216 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\textfield.cpp
+	"TextField.h"
+	"../misc/Utilities.h"
+
+1705455216 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\tooltip.cpp
+	"Tooltip.h"
+	"misc/Utilities.h"
+
+1705903116 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\widget.cpp
+	"Widget.h"
+	"misc/Utilities.h"
+
+1705455216 source:c:\users\philou231\myfiles\documents\git\vise\source\src\gui\widgetbar.cpp
+	"WidgetBar.h"
+	"misc/Utilities.h"
+
+1705678066 source:c:\users\philou231\myfiles\documents\git\vise\source\src\interface\commdde.cpp
+	"CommDDE.h"
+	<ddeml.h>
+
+1705686496 source:c:\users\philou231\myfiles\documents\git\vise\source\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"interface/CommDDE.h"
+	"gui/Gui.h"
+
+1705686284 source:c:\users\philou231\myfiles\documents\git\vise\source\src\misc\utilities.cpp
+	"misc/Utilities.h"
+	<algorithm>
+	<cmath>
+	<sstream>
+
+1678417250 source:d:\documents\git\vise\source\src\file\file.cpp
+	"file/File.h"
+
+1678417246 d:\documents\git\vise\source\src\file\file.h
+	<string>
+
+1684856234 source:d:\documents\git\vise\source\src\file\image.cpp
+	"file/Image.h"
+	<filesystem>
+	<iostream>
+	<cmath>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1684856256 d:\documents\git\vise\source\src\file\image.h
+	<vector>
+	<SDL.h>
+	"file/File.h"
+
+1705686070 d:\documents\git\vise\source\src\misc\utilities.h
+	<SDL.h>
+	<iostream>
+	<vector>
+
+1727106540 source:d:\documents\git\vise\source\src\file\inspectionreport.cpp
+	"file/InspectionReport.h"
+	<iostream>
+	<fstream>
+	<filesystem>
+	<cmath>
+	<nfd.h>
+
+1705685464 d:\documents\git\vise\source\src\file\inspectionreport.h
+	<vector>
+	<functional>
+	"misc/Utilities.h"
+	"PickAndPlace.h"
+	"Image.h"
+
+1679602762 d:\documents\git\vise\source\src\file\pickandplace.h
+	<vector>
+	"misc/Utilities.h"
+	"file/File.h"
+	"inspection/Item.h"
+
+1682955764 d:\documents\git\vise\source\src\inspection\item.h
+
+1684808042 source:d:\documents\git\vise\source\src\file\pickandplace.cpp
+	"file/PickAndPlace.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<filesystem>
+
+1705455082 source:d:\documents\git\vise\source\src\gui\button.cpp
+	"Button.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1679170436 d:\documents\git\vise\source\src\gui\button.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1705903140 d:\documents\git\vise\source\src\gui\widget.h
+	<vector>
+	<SDL.h>
+
+1705904408 d:\documents\git\vise\source\src\gui\label.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1705455238 source:d:\documents\git\vise\source\src\gui\fileviewer.cpp
+	"FileViewer.h"
+	"misc/Utilities.h"
+
+1679193482 d:\documents\git\vise\source\src\gui\fileviewer.h
+	<vector>
+	<functional>
+	"SDL_ttf.h"
+	"Widget.h"
+	"file/File.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+
+1730773166 source:d:\documents\git\vise\source\src\gui\gui.cpp
+	"gui/Gui.h"
+	<filesystem>
+	<bitset>
+	<SDL_image.h>
+	<nfd.h>
+
+1705944346 d:\documents\git\vise\source\src\gui\gui.h
+	"interface/CommDDE.h"
+	<vector>
+	<SDL.h>
+	"misc/Utilities.h"
+	"Widget.h"
+	"WidgetBar.h"
+	"ImageViewer.h"
+	"FileViewer.h"
+	"Button.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"file/Image.h"
+	"file/PickAndPlace.h"
+	"file/InspectionReport.h"
+
+1705617042 d:\documents\git\vise\source\src\interface\commdde.h
+	<functional>
+	<string>
+	<windows.h>
+
+1639709114 d:\documents\git\vise\source\src\gui\widgetbar.h
+	"Widget.h"
+
+1705680214 d:\documents\git\vise\source\src\gui\imageviewer.h
+	"Widget.h"
+	"file/Image.h"
+	"file/InspectionReport.h"
+	"FileViewer.h"
+	"PopUpText.h"
+	"PopUpYesNo.h"
+	"Tooltip.h"
+
+1684813072 d:\documents\git\vise\source\src\gui\popuptext.h
+	"PopUp.h"
+	"TextField.h"
+	"Tooltip.h"
+
+1705902970 d:\documents\git\vise\source\src\gui\popup.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+	"Button.h"
+
+1676785032 d:\documents\git\vise\source\src\gui\textfield.h
+	<string>
+	<functional>
+	<SDL_ttf.h>
+	"Widget.h"
+
+1679269150 d:\documents\git\vise\source\src\gui\tooltip.h
+	<string>
+	<SDL_ttf.h>
+	"Widget.h"
+	"Label.h"
+
+1679154820 d:\documents\git\vise\source\src\gui\popupyesno.h
+	"PopUp.h"
+
+1705902212 source:d:\documents\git\vise\source\src\gui\imageviewer.cpp
+	"ImageViewer.h"
+	<cmath>
+	<sstream>
+	<iomanip>
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1705905608 source:d:\documents\git\vise\source\src\gui\label.cpp
+	"Label.h"
+	<SDL_image.h>
+	"misc/Utilities.h"
+
+1705904360 source:d:\documents\git\vise\source\src\gui\popup.cpp
+	"PopUp.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1705455216 source:d:\documents\git\vise\source\src\gui\popuptext.cpp
+	"PopUpText.h"
+	<iostream>
+	"../misc/Utilities.h"
+
+1679154830 source:d:\documents\git\vise\source\src\gui\popupyesno.cpp
+	"PopUpYesNo.h"
+
+1677709000 source:d:\documents\git\vise\source\src\gui\ressources.rc
+
+1705455216 source:d:\documents\git\vise\source\src\gui\textfield.cpp
+	"TextField.h"
+	"../misc/Utilities.h"
+
+1705455216 source:d:\documents\git\vise\source\src\gui\tooltip.cpp
+	"Tooltip.h"
+	"misc/Utilities.h"
+
+1705903116 source:d:\documents\git\vise\source\src\gui\widget.cpp
+	"Widget.h"
+	"misc/Utilities.h"
+
+1705455216 source:d:\documents\git\vise\source\src\gui\widgetbar.cpp
+	"WidgetBar.h"
+	"misc/Utilities.h"
+
+1705678066 source:d:\documents\git\vise\source\src\interface\commdde.cpp
+	"CommDDE.h"
+	<ddeml.h>
+
+1705686496 source:d:\documents\git\vise\source\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"interface/CommDDE.h"
+	"gui/Gui.h"
+
+1705686284 source:d:\documents\git\vise\source\src\misc\utilities.cpp
+	"misc/Utilities.h"
+	<algorithm>
+	<cmath>
+	<sstream>
+
